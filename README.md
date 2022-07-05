@@ -1,3 +1,4 @@
+![wave](https://user-images.githubusercontent.com/79852934/177246997-68233126-9933-4310-bafd-e8fbf81ca045.gif)
 - 👋 Hi, I’m Nethmini Tharuka.
 - 👀 I’m interested in researching something new..
 - 🌱 I’m currently learning BSc (Hons) in Information Technology.
