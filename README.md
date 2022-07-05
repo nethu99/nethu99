@@ -1,4 +1,4 @@
-                ![new-game-ahagon-umiko-programming](https://user-images.githubusercontent.com/79852934/177247488-97c12e9e-6555-459c-bf09-ba68a33a84de.gif)
+   ![new-game-ahagon-umiko-programming](https://user-images.githubusercontent.com/79852934/177247488-97c12e9e-6555-459c-bf09-ba68a33a84de.gif)
 
 Hi, ![wave](https://user-images.githubusercontent.com/79852934/177246997-68233126-9933-4310-bafd-e8fbf81ca045.gif)
             I’m Nethmini Tharuka.
