@@ -7,7 +7,7 @@
 
             
 - 👀 I’m interested in researching something new..
-- 🌱 I’m currently learning BSc (Hons) in Information Technology.
+- 🌱 I’m currently learning BSc (Hons) in Information Technology(SLIIT).
 - 💞️ I’m looking to collaborate on these open sourse projects.
 - 📫 How to reach me tharukatharu@gmail.com
 - ⚡ Fun facts I like to reads books, listening music & watching movies.
