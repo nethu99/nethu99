@@ -13,6 +13,10 @@
 - ⚡ Fun facts I like to reads books, listening music & watching movies.
 
      ![coding](https://user-images.githubusercontent.com/79852934/177248887-b3457bbd-87f0-478a-ae6e-2c9428940524.gif)
+     
+     
+  ![https://github-readme-stats.vercel.app/api?username=nethu99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515](https://github-readme-stats.vercel.app/api?username=nethu99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
 
 
 
