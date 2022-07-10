@@ -9,7 +9,10 @@
 - 👀 I’m interested in researching something new..
 - 🌱 I’m currently learning BSc (Hons) in Information Technology(SLIIT).
 - 💞️ I’m looking to collaborate on these open sourse projects.
-- 📫 How to reach me -:  E-mail [tharukatharu@gmail.com](tharukatharu@gmail.com) , linkedin [www.linkedin.com/in/nethmini-tharuka-874a741ba](www.linkedin.com/in/nethmini-tharuka-874a741ba), instagram [(https://www.instagram.com/invites/contact/?i=ae797u7xhmhw&utm_content=li4c6q7)](https://www.instagram.com/invites/contact/?i=ae797u7xhmhw&utm_content=li4c6q7), facebook  [(https://www.facebook.com/profile.php?id=100010968309891)](https://www.facebook.com/profile.php?id=100010968309891%5D)
+- Connect With Me
+- ![linkedin \[www.linkedin.com/in/nethmini-tharuka-874a741ba\](www.linkedin.com/in/nethmini-tharuka-874a741ba)](linkedin%20%5Bwww.linkedin.com/in/nethmini-tharuka-874a741ba%5D%28www.linkedin.com/in/nethmini-tharuka-874a741ba%29)
+![linked-in-alt]
+
 - ⚡ Fun facts I like to reads books, listening music & watching movies.
 
      ![coding](https://user-images.githubusercontent.com/79852934/177248887-b3457bbd-87f0-478a-ae6e-2c9428940524.gif)
