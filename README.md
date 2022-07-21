@@ -1,13 +1,11 @@
-  
-  ![<h1 align="center">new-game-ahagon-umiko-programming](https://user-images.githubusercontent.com/79852934/177247488-97c12e9e-6555-459c-bf09-ba68a33a84de.gif), ![coding](https://user-images.githubusercontent.com/79852934/177248887-b3457bbd-87f0-478a-ae6e-2c9428940524.gif)</h1>
+   <p align = "center"><img  width = "60%" height= "300px" src = "https://user-images.githubusercontent.com/79852934/177248887-b3457bbd-87f0-478a-ae6e-2c9428940524.gif" alt = "coding gif" /></p>
 
-  [<h1 align="center">**Hi,**](**Hi,**)![wave](https://user-images.githubusercontent.com/79852934/177246997-68233126-9933-4310-bafd-e8fbf81ca045.gif)
-                               [**I’m Nethmini Tharuka.**](**I%E2%80%99m%20Nethmini%20Tharuka.**)</h1>
-				
 
- 
   
-         
+  <h1 align="center">Hi <img src= "https://user-images.githubusercontent.com/79852934/177246997-68233126-9933-4310-bafd-e8fbf81ca045.gif" alt="wave" style="max-width: 50%; width:60px; display: inline-block;">I’m Nethmini Tharuka. </h1>
+  <br/><br/>
+<img align = "right"  width = "35%" height = "300px" src = "https://user-images.githubusercontent.com/79852934/177247488-97c12e9e-6555-459c-bf09-ba68a33a84de.gif" alt = "coding gif" />			
+       
 - 🔭 I’m currently working on **Not yet working**
 
 - 🌱 I’m currently learning **BSc (Hons) in Information Technology(SLIIT).**
