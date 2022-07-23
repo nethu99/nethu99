@@ -6,7 +6,7 @@
 				
 
  
-   ![<h1 align="center">new-game-ahagon-umiko-programming](https://user-images.githubusercontent.com/79852934/177247488-97c12e9e-6555-459c-bf09-ba68a33a84de.gif)
+   
          
 - 🔭 I’m currently working on **Not yet working**
 
