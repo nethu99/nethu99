@@ -1,18 +1,19 @@
-  
-  ![<h1 align="center">new-game-ahagon-umiko-programming](https://user-images.githubusercontent.com/79852934/177247488-97c12e9e-6555-459c-bf09-ba68a33a84de.gif)
+   ![AppropriateFatKagu-max-1mb](https://user-images.githubusercontent.com/79852934/180612366-d9458041-6e6b-4b5a-8851-e687a6319dce.gif)
+ 
 
   [<h1 align="center">**Hi,**](**Hi,**)![wave](https://user-images.githubusercontent.com/79852934/177246997-68233126-9933-4310-bafd-e8fbf81ca045.gif)
                                [**I’m Nethmini Tharuka.**](**I%E2%80%99m%20Nethmini%20Tharuka.**)</h1>
 				
 
  
-  
+   ![<h1 align="center">new-game-ahagon-umiko-programming](https://user-images.githubusercontent.com/79852934/177247488-97c12e9e-6555-459c-bf09-ba68a33a84de.gif)
          
 - 🔭 I’m currently working on **Not yet working**
 
 - 🌱 I’m currently learning **BSc (Hons) in Information Technology(SLIIT).**
 
-- 👯 I’m looking to collaborate on **on these open sourse projects.**
+- 👯 I’m looking to collaborate on **on these open sourse projects**.
+
 
 - 👀 I’m interested in **researching something new..**
 
